@@ -1,0 +1,1 @@
+This project is realized using feature extraction of the images to be recognized.
